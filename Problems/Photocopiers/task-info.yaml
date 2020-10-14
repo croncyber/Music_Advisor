@@ -10,20 +10,9 @@ files:
     \ {\n        return this.item;\n    }\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2603
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    Multiplicator class
-
-    Correct output:
-    Well done!
-
-    Your code output:
-    null
-  time: Tue, 22 Sep 2020 18:25:43 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2603">JetBrains
+    Academy</a></html>
+  time: Wed, 14 Oct 2020 07:39:05 UTC
 record: -1

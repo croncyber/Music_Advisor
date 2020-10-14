@@ -1,6 +1,6 @@
-**Music Advisor**
-
-Modern world spoils us with a wide variety of music: pop-lovers, rockers,
+### **Music Advisor**
+~~~
+  Modern world spoils us with a wide variety of music: pop-lovers, rockers,
   rappers and club enthusiasts alike face a nearly infinite choice. Fortunately, there
   are programs that can help us find something we like and not get lost in this variety:
   in this project, you will write a program like this. Create a personal music advisor
